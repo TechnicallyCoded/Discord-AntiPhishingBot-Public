@@ -41,6 +41,20 @@ However, if you do notice any unwanted behavior you may ask nicely for me to
 correct it using a github issue.
 - Invite link: [click here to invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=888061627239383051&permissions=292057902146&scope=bot)
 
+## Setup
+- Invite the bot
+- Ensure that the bot has the permission to view and delete messages in each
+  channel you want protected.
+- To test that the bot is working you can send a message with the following 
+  fake link: https://testinglinktomakesuretheantiscambotcandeletemessages.testonly
+
+## Donations
+I took the time to put this together so that you don't have to. If you wish to
+thank me you can star the github repo and optionally donate a few dollars if 
+you want to give this bot the best chance of staying online and, in general, 
+keeping the list of blacklisted domains as up to date as it can be. 
+[Donation link](http://paypal.me/technicallycoded)
+
 ## Contributing
 You may contribute to this list by creating a pull request. All modifications 
 contributed to this list are owned by me once accepted. You waive all 
