@@ -4,3 +4,6 @@
 (https?:\/\/)?(www\.)?discord-give\.com
 (https?:\/\/)?(www\.)?discrodapp\.ru
 (https?:\/\/)?(www\.)?discord-informations\.ru
+(https?:\/\/)?(www\.)?dlscord-app\.com
+(https?:\/\/)?(www\.)?discord-airdrop\.com
+(https?:\/\/)?(www\.)?dlscord-nitro\.link
