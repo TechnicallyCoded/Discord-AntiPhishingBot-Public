@@ -34,9 +34,9 @@ contributed to the repository by others.
 You can invite my own discord bot which uses this list to automatically delete 
 messages that match any of the entries listed in blacklist.txt. I provide the 
 bot's service as-is, with no guarantees for uptime, lack of false positives or
-lack of false negatives. If scam links are not removed you may contribute 
-changes to add the missing malicious links (see [#Contributing](./README.md#contributing)).
-I may also choose to take the bot offline without any notice if I so desire.
+lack of false negatives. I may also choose to take the bot offline without any 
+notice if I so desire.If scam links are not removed you may contribute changes 
+to add the missing malicious links (see [#Contributing](./README.md#contributing)).
 However, if you do notice any unwanted behavior you may ask nicely for me to 
 correct it using a github issue.
 - Invite link: [click here to invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=888061627239383051&permissions=292057902146&scope=bot)
