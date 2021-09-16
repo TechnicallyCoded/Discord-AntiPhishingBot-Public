@@ -5,7 +5,8 @@
 *This can be translated to, for the average person, but is NOT limited by, the 
 following restrictions:* You may NOT redistribute this in any way (especially 
 if claiming it as your own) or include sections of the list (or the entire list) 
-in your own works.
+in your own works. I also reserve the right to update these terms at any time 
+without notice.
 
 **Exceptions:**
 - The lists in this repository may be USED (aka, retrieved at runtime) by your 
@@ -29,7 +30,16 @@ a link back to the original repository are NOT tolerated)
 This blacklist is a compiled list of all scam links that I could find or were
 contributed to the repository by others.
 
-## Contribution
+## Invite the discord bot
+You can invite my own discord bot which uses this list to automatically delete 
+messages that match any of the entries listed in blacklist.txt. I provide the 
+bot's service as-is, with no guarantees for uptime or lack of false positives. 
+I may also choose to take the bot offline without any notice if I so desire.
+However, if you do notice any unwanted behavior you may ask nicely for me to 
+correct it using a github issue.
+- Invite link: [click here to invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=888061627239383051&permissions=292057902146&scope=bot)
+
+## Contributing
 You may contribute to this list by creating a pull request. All modifications 
 contributed to this list are owned by me once accepted. You waive all 
 copyrights of your contributed modifications. (You may still brag about how
