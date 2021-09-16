@@ -3,3 +3,4 @@
 (https?:\/\/)?(www\.)?d[li]scord\.gift
 (https?:\/\/)?(www\.)?discord-give\.com
 (https?:\/\/)?(www\.)?discrodapp\.ru
+(https?:\/\/)?(www\.)?discord-informations\.ru
