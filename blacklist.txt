@@ -1,2 +1,3 @@
-(https?://)?(www.)?stea(rn|m)comm?unity.ru/
-(https?://)?(www.)?d[li]scord.gift/
+(https?://)?(www\.)?testinglinktomakesuretheantiscambotcandeletemessages\.com/
+(https?://)?(www\.)?stea(rn|m)comm?unity\.ru/
+(https?://)?(www\.)?d[li]scord\.gift/
