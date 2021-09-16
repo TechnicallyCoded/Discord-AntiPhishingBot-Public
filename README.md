@@ -1,4 +1,4 @@
-# Discord AntiScamBot Public Blacklist
+# Discord AntiPhishingBot Public Blacklist
 
 ***ALL RIGHTS RESERVED***
 
