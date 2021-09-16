@@ -1,6 +1,6 @@
 (https?:\/\/)?(www\.)?testinglinktomakesuretheantiscambotcandeletemessages\.testonly
 (https?:\/\/)?(www\.)?stea?(rn|rm|m)c+om+unit+y\.ru
-(https?:\/\/)?(www\.)?d[li]scord\.gift
+(https?:\/\/)?(www\.)?d[li]scord\.gifts?
 (https?:\/\/)?(www\.)?discord-give\.com
 (https?:\/\/)?(www\.)?discrodapp\.ru
 (https?:\/\/)?(www\.)?discord-informations\.ru
