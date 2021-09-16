@@ -35,7 +35,7 @@ You can invite my own discord bot which uses this list to automatically delete
 messages that match any of the entries listed in blacklist.txt. I provide the 
 bot's service as-is, with no guarantees for uptime, lack of false positives or
 lack of false negatives. I may also choose to take the bot offline without any 
-notice if I so desire.If scam links are not removed you may contribute changes 
+notice if I so desire. If scam links are not removed you may contribute changes 
 to add the missing malicious links (see [#Contributing](./README.md#contributing)).
 However, if you do notice any unwanted behavior you may ask nicely for me to 
 correct it using a github issue.
