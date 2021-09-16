@@ -11,8 +11,8 @@ at any time without notice.
 **Exceptions:**
 - The lists in this repository may be USED (aka, retrieved at runtime) by your 
 application as long as there is an OBVIOUSLY VISIBLE reference to the origin of 
-the data such as a link to this repository. The reference must be at least as
-visible as the service using the data.
+the data to the end user such as a link to this repository. The reference must 
+be at least as visible as the service using the data.
 - Forks of the repository are allowed only if using GITHUB's built-in forking 
 function for the sole purpose of making pull requests. By using github's 
 method, it creates a link back to the original repository. (Forks made without 
