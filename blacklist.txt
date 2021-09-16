@@ -1,5 +1,5 @@
 (https?:\/\/)?(www\.)?testinglinktomakesuretheantiscambotcandeletemessages\.testonly
-(https?:\/\/)?(www\.)?stea(rn|m)comm?unity\.ru
+(https?:\/\/)?(www\.)?stea?(rn|rm|m)c+om+unit+y\.ru
 (https?:\/\/)?(www\.)?d[li]scord\.gift
 (https?:\/\/)?(www\.)?discord-give\.com
 (https?:\/\/)?(www\.)?discrodapp\.ru
