@@ -3,10 +3,10 @@
 ***ALL RIGHTS RESERVED***
 
 *This can be translated to, for the average person, but is NOT limited to, the 
-following restrictions:* You may NOT redistribute this in any way (especially 
-if claiming it as your own) or include sections of the list (or the entire list) 
-in your own works. I also reserve the right to update these terms at any time 
-without notice.
+following restrictions:* You may NOT redistribute the list provided in any way 
+(especially if claiming it as your own) or include sections of the list (or the 
+entire list) in your own works. I also reserve the right to update these terms 
+at any time without notice.
 
 **Exceptions:**
 - The lists in this repository may be USED (aka, retrieved at runtime) by your 
