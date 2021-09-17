@@ -4,13 +4,14 @@
 (https?:\/\/)?(.+\.)?stea?(rn|rm|m)c+om+unit+y\.ru
 
 (https?:\/\/)?(.+\.)?d[li]scord\.gifts?
-(https?:\/\/)?(.+\.)?discord-airdrop\.com
 (https?:\/\/)?(.+\.)?discoc?rd-?app\.net
+(https?:\/\/)?(.+\.)?discord-airdrop\.com
 (https?:\/\/)?(.+\.)?discord-get\.click
 (https?:\/\/)?(.+\.)?discord-give\.com
 (https?:\/\/)?(.+\.)?discord-informations\.ru
 (https?:\/\/)?(.+\.)?discord\.birth
 (https?:\/\/)?(.+\.)?discrodapp\.ru
+(https?:\/\/)?(.+\.)?dlscocl\.xyz
 (https?:\/\/)?(.+\.)?dlscord-app\.com
 (https?:\/\/)?(.+\.)?dlscord-nitro\.link
 (https?:\/\/)?(.+\.)?steam-d[il]scord\.com
