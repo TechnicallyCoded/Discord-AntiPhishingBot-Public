@@ -4,6 +4,7 @@
 (https?:\/\/)?(.+\.)?stea?(rn|rm|m)c+om+unit+y\.ru
 
 (https?:\/\/)?(.+\.)?d[li]scord\.gifts?
+(https?:\/\/)?(.+\.)?dicsordgifts?\.com
 (https?:\/\/)?(.+\.)?discoc?rd-?app\.net
 (https?:\/\/)?(.+\.)?discord-airdrop\.com
 (https?:\/\/)?(.+\.)?discord-get\.click
