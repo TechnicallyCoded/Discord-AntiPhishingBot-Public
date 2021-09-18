@@ -11,6 +11,7 @@
 (https?:\/\/)?(.+\.)?discord-give\.com
 (https?:\/\/)?(.+\.)?discord-informations\.ru
 (https?:\/\/)?(.+\.)?discord\.birth
+(https?:\/\/)?(.+\.)?discordgift\.site
 (https?:\/\/)?(.+\.)?discrodapp\.ru
 (https?:\/\/)?(.+\.)?dlscocl\.xyz
 (https?:\/\/)?(.+\.)?dlscord-app\.com
