@@ -6,6 +6,7 @@
 (https?:\/\/)?(.+\.)?d[li]scord\.gifts?
 (https?:\/\/)?(.+\.)?dicsordgifts?\.com
 (https?:\/\/)?(.+\.)?discoc?rd-?app\.net
+(https?:\/\/)?(.+\.)?discocrdapp\.com
 (https?:\/\/)?(.+\.)?discord-airdrop\.com
 (https?:\/\/)?(.+\.)?discord-get\.click
 (https?:\/\/)?(.+\.)?discord-give\.com
