@@ -17,3 +17,5 @@
 (https?:\/\/)?(.+\.)?dlscord-app\.com
 (https?:\/\/)?(.+\.)?dlscord-nitro\.link
 (https?:\/\/)?(.+\.)?steam-d[il]scord\.com
+
+(https?:\/\/)?(.+\.)?steemit\.com
