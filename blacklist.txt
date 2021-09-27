@@ -2,6 +2,7 @@
 
 (https?:\/\/)?(.+\.)?discorcl\.click
 (https?:\/\/)?(.+\.)?stea?(rn|rm|m)c+om+unit+y\.ru
+(https?:\/\/)?(.+\.)?steamcornminuty\.com
 
 (https?:\/\/)?(.+\.)?d[li]scord\.gifts?
 (https?:\/\/)?(.+\.)?dicsordgifts?\.com
