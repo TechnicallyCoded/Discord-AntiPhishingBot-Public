@@ -16,6 +16,7 @@
 (https?:\/\/)?(.+\.)?discordgift\.site
 (https?:\/\/)?(.+\.)?discrodapp\.ru
 (https?:\/\/)?(.+\.)?dlscocl\.xyz
+(https?:\/\/)?(.+\.)?dlscord\.\w{2,10}
 (https?:\/\/)?(.+\.)?dlscord-app\.com
 (https?:\/\/)?(.+\.)?dlscord-nitro\.link
 (https?:\/\/)?(.+\.)?steam-d[il]scord\.com
