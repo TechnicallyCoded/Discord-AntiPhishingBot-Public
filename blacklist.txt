@@ -4,7 +4,7 @@
 (https?:\/\/)?(.+\.)?stea?(rn|rm|m)c+om+unit+y\.ru
 (https?:\/\/)?(.+\.)?steamcornminuty\.com
 
-(https?:\/\/)?(.+\.)?d[li]scord\.gifts?
+(https?:\/\/)?(.+\.)?discord\.gifts
 (https?:\/\/)?(.+\.)?dicsordgifts?\.com
 (https?:\/\/)?(.+\.)?discoc?rd-?app\.net
 (https?:\/\/)?(.+\.)?discocrdapp\.com
@@ -13,8 +13,7 @@
 (https?:\/\/)?(.+\.)?discord-give\.com
 (https?:\/\/)?(.+\.)?discord-informations\.ru
 (https?:\/\/)?(.+\.)?discord\.birth
-(https?:\/\/)?(.+\.)?discordgift\.site
-(https?:\/\/)?(.+\.)?discordrgift\.com
+(https?:\/\/)?(.+\.)?discordr?gift\.\w{2,10}
 (https?:\/\/)?(.+\.)?discrodapp\.ru
 (https?:\/\/)?(.+\.)?dlscocl\.xyz
 (https?:\/\/)?(.+\.)?dlscord\.\w{2,10}
