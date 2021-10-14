@@ -13,7 +13,7 @@
 (https?:\/\/)?(.+\.)?discord-give\.com
 (https?:\/\/)?(.+\.)?discord-informations\.ru
 (https?:\/\/)?(.+\.)?discord\.birth
-(https?:\/\/)?(.+\.)?discordr?gift\.\w{2,10}
+(https?:\/\/)?(.+\.)?discord.?gift\.\w{2,10}
 (https?:\/\/)?(.+\.)?discrodapp\.ru
 (https?:\/\/)?(.+\.)?dlscocl\.xyz
 (https?:\/\/)?(.+\.)?dlscord\.\w{2,10}
