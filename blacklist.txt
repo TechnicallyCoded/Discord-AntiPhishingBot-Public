@@ -1,24 +1,21 @@
 (https?:\/\/)?(.+\.)?testinglinktomakesuretheantiscambotcandeletemessages\.testonly
 
-(https?:\/\/)?(.+\.)?discorcl\.click
+(https?:\/\/)?(.+\.)?steemit\.com
 (https?:\/\/)?(.+\.)?stea?(rn|rm|m)c+om+unit+y\.ru
 (https?:\/\/)?(.+\.)?steamcornminuty\.com
 
-(https?:\/\/)?(.+\.)?discord\.gifts
-(https?:\/\/)?(.+\.)?dicsordgifts?\.com
-(https?:\/\/)?(.+\.)?discoc?rd-?app\.net
-(https?:\/\/)?(.+\.)?discocrdapp\.com
-(https?:\/\/)?(.+\.)?discord-airdrop\.com
-(https?:\/\/)?(.+\.)?discord-get\.click
-(https?:\/\/)?(.+\.)?discord-give\.com
-(https?:\/\/)?(.+\.)?discord-informations\.ru
-(https?:\/\/)?(.+\.)?discord\.birth
-(https?:\/\/)?(.+\.)?discord.?gift\.\w{2,10}
-(https?:\/\/)?(.+\.)?discrodapp\.ru
-(https?:\/\/)?(.+\.)?dlscocl\.xyz
-(https?:\/\/)?(.+\.)?dlscord\.\w{2,10}
-(https?:\/\/)?(.+\.)?dlscord-app\.com
-(https?:\/\/)?(.+\.)?dlscord-nitro\.link
-(https?:\/\/)?(.+\.)?steam-d[il]scord\.com
+(https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b))
+(https?:\/\/)?(.+\.)?discordapp\.(?!com(\b)|net(\b))
+(https?:\/\/)?(.+\.)?discordstatus\.(?!com(\b))
 
-(https?:\/\/)?(.+\.)?steemit\.com
+(https?:\/\/)?(.+\.)?d[il17](sc|cs)[0o]\w{1,3}r(cl|d)app\.com\b
+(https?:\/\/)?(.+\.)?d[il17](sc|cs)[0o]\w{1,3}r(cl|d)app\.net\b
+
+(https?:\/\/)?(.+\.)?d[^i].?(sc|cs)[o0]r?(cl|[db])\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il1](sc|cs)[o0]rd.{0,10}\.gift.{1,15}
+(https?:\/\/)?(.+\.)?d[il1](cs|sc)[o0]rdg[il1]ft[s5]?\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r(cl|[db])-\w{1-20}\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17](sc|cs)ro(cl|[db])app\.\w{2,10}
+(https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[db])\.com
+
+(https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r?(cl|[db])(.{1,2}|.{4,15})\.\w{2,15}
