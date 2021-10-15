@@ -19,3 +19,5 @@
 (https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[db])\.com
 
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r?(cl|[db])(.{1,2}|.{4,15})\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17]cs[o0]r?(cl|[db])\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17](sc|cs)[^o]r?(cl|[db])\.\w{2,15}
