@@ -21,8 +21,9 @@
 (https?:\/\/)?(.+\.)?d[il1](cs|sc)[o0]rdg[il1]ft[s5]?\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r(cl|[db])-\w{1-20}\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)ro(cl|[db])app\.\w{2,15}
-(https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[db])\.com
+(https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?nitro-?app-?store\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r(cl|[db])[^a][^p]{2}\.\w{2,15}
 
 # Variations of valid discord domains to seem legitimate
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r?(cl|[db])(.{1,2}|.{4,15})\.\w{2,15}
