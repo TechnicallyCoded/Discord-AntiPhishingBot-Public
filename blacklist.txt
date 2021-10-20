@@ -1,16 +1,21 @@
+# Testing
 (https?:\/\/)?(.+\.)?testinglinktomakesuretheantiscambotcandeletemessages\.testonly
 
+# Steam scam links
 (https?:\/\/)?(.+\.)?steemit\.com
 (https?:\/\/)?(.+\.)?stea?(rn|rm|m)c+om+unit+y\.ru
 (https?:\/\/)?(.+\.)?steamcornminuty\.com
 
+# Invalid root level domains for valid discord domain names
 (https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b))
 (https?:\/\/)?(.+\.)?discordapp\.(?!com(\b)|net(\b))
 (https?:\/\/)?(.+\.)?discordstatus\.(?!com(\b))
 
+# Valid discord domains with extra character in the middle
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[0o]\w{1,3}r(cl|d)app\.com\b
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[0o]\w{1,3}r(cl|d)app\.net\b
 
+# Invalid discord domains, no matter the root domain
 (https?:\/\/)?(.+\.)?d[^i].?(sc|cs)[o0]r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il1](sc|cs)[o0]rd.{0,10}\.gift\w{1,15}
 (https?:\/\/)?(.+\.)?d[il1](cs|sc)[o0]rdg[il1]ft[s5]?\.\w{2,15}
@@ -18,6 +23,7 @@
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)ro(cl|[db])app\.\w{2,10}
 (https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[db])\.com
 
+# Variations of valid discord domains to seem legitimate
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r?(cl|[db])(.{1,2}|.{4,15})\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]cs[o0]r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[^o]r?(cl|[db])\.\w{2,15}
