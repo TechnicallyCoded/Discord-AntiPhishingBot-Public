@@ -26,5 +26,6 @@
 
 # Variations of valid discord domains to seem legitimate
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r?(cl|[db])(.{1,2}|.{4,15})\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]cr?(cl|[db])\w{0,15}\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]cs[o0]r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[^o]r?(cl|[db])\.\w{2,15}
