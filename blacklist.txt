@@ -1,10 +1,11 @@
 # Testing
-(https?:\/\/)?(.+\.)?testinglinktomakesuretheantiscambotcandeletemessages\.testonly
+(https?:\/\/)?(.+\.)?testinglinktomakesuretheantiphishingbotcandeletemessages\.testonly
 
 # Steam scam links
 (https?:\/\/)?(.+\.)?steemit\.com
-(https?:\/\/)?(.+\.)?stea?(rn|rm|m)c+om+unit+y\.ru
-(https?:\/\/)?(.+\.)?steamcornminuty\.com
+(https?:\/\/)?(.+\.)?stea?(rn|rm|m)c+[o0](m|rn)+unit+y\.ru
+(https?:\/\/)?(.+\.)?steamcornminuty\.\w{2,15}
+(https?:\/\/)?(.+\.)?steamcommunityx\.\w{2,15}
 
 # Invalid root level domains for valid discord domain names
 (https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b))
@@ -26,7 +27,8 @@
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r(cl|[db])[^a][^p]{2}\.\w{2,15}
 
 # Variations of valid discord domains to seem legitimate
-(https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r?(cl|[db])(.{1,2}|.{4,5}|.{7,15})\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]cr?(cl|[db])\w{0,15}\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]cs[o0]r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[^o]r?(cl|[db])\.\w{2,15}
+
+# Individual banned domains yet to be regrouped under a more general regex expression
