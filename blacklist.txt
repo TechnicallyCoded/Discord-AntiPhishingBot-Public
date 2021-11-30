@@ -7,8 +7,8 @@
 (https?:\/\/)?(.+\.)?steamcornminuty\.\w{2,15}
 (https?:\/\/)?(.+\.)?steamcommunityx\.\w{2,15}
 
-# Invalid root level domains for valid discord domain names
-(https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b))
+# Invalid root level domains for valid (or safe 3rd party) discord domain names
+(https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b)|me(\b))
 (https?:\/\/)?(.+\.)?discordapp\.(?!com(\b)|net(\b))
 (https?:\/\/)?(.+\.)?discordstatus\.(?!com(\b))
 
@@ -33,6 +33,4 @@
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[^o]r?(cl|[db])\.\w{2,15}
 
 # Individual banned domains yet to be regrouped under a more general regex expression
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db]).\.\w{2,15}
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db]).\.\w{2,15}
-(https?:\/\/)?(.+\.)?https://www.dicordglfts.ga
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db])[^s]\.\w{2,15}
