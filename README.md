@@ -57,7 +57,7 @@ keeping the list of blacklisted domains as up to date as it can be.
 
 ## Contributing
 You may contribute to this list by creating a pull request. All modifications 
-contributed to this list are owned by me once accepted. You waive all 
-copyrights of your contributed modifications. (You may still brag about how
-much you have contributed but I don't need people claiming they own more than
-I do just because they contributed a lot xD)
+contributed to this list are owned by me once the pull-request is accepted. You 
+waive all copyrights of your contributed modifications. (You may still brag about 
+how much you have contributed but I don't want people claiming they own the rights 
+to this project just because they contributed a lot xD)
