@@ -1,0 +1,14 @@
+# Official discord domains
+https://discord.com
+https://discord.gg
+https://discord.media
+https://discord.gift
+https://discordapp.com
+https://discordapp.net
+https://discordstatus.com
+
+# Third party websites known to be safe
+https://discordservers.com
+https://discords.com
+https://disboard.org
+https://discord.me
