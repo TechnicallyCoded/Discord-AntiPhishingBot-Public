@@ -20,12 +20,12 @@
 (https?:\/\/)?(.+\.)?d[^i].?(sc|cs)[o0]+r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+rd.{0,10}\.gift\w{1,15}
 (https?:\/\/)?(.+\.)?d[il17]+(cs|sc)[o0]+rdg[il1]ft[s5]?\.\w{2,15}
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r(cl|[db])-\w{1-20}\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[c]?[o0]+r(cl|[db])-\w{1-20}\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)ro(cl|[db])app\.\w{2,15}
 (https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?nitro-?app-?store\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r(cl|[db])[^a][^p]{2}\.\w{2,15}
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r(cl|[db])s?.?n[il17]tr[o0]s?\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r(cl|[db])s?.{0,5}n[il17]t+r[o0]s?\.\w{2,15}
 
 # Variations of valid discord domains to seem legitimate
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+cr?(cl|[db])\w{0,15}\.\w{2,15}
@@ -33,4 +33,5 @@
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[^o]r?(cl|[db])\.\w{2,15}
 
 # Individual banned domains yet to be regrouped under a more general regex expression
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db]).\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db]).\.\w{2,15}
