@@ -25,6 +25,7 @@
 (https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?nitro-?app-?store\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]r(cl|[db])[^a][^p]{2}\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17](sc|cs|s|c)[o0]r(cl|[db])s?.?n[il17]tr[o0]s?\.\w{2,15}
 
 # Variations of valid discord domains to seem legitimate
 (https?:\/\/)?(.+\.)?d[il17](sc|cs)[o0]cr?(cl|[db])\w{0,15}\.\w{2,15}
