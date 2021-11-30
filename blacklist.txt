@@ -20,7 +20,7 @@
 (https?:\/\/)?(.+\.)?d[^i].?(sc|cs)[o0]+r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+rd.{0,10}\.gift\w{1,15}
 (https?:\/\/)?(.+\.)?d[il17]+(cs|sc)[o0]+rdg[il1]ft[s5]?\.\w{2,15}
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[c]?[o0]+r(cl|[db])-\w{1-20}\.\w{2,15}
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)c?[o0]+r(cl|[db])-\w{1,20}\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)ro(cl|[db])app\.\w{2,15}
 (https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[db])\.\w{2,15}
 (https?:\/\/)?(.+\.)?nitro-?app-?store\.\w{2,15}
