@@ -46,7 +46,7 @@ correct it using a github issue.
 - Ensure that the bot has the permission to view and delete messages in each
   channel you want protected.
 - To test that the bot is working you can send a message with the following 
-  fake link: https://testinglinktomakesuretheantiscambotcandeletemessages.testonly
+  fake link: https://testinglinktomakesuretheantiphishingbotcandeletemessages.testonly
 
 ## Donations
 I took the time to put this together so that you don't have to. If you wish to
