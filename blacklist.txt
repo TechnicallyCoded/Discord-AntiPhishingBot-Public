@@ -8,7 +8,7 @@
 (https?:\/\/)?(.+\.)?steamcommunityx\.\w{2,15}
 
 # Invalid root level domains for valid (or safe 3rd party) discord domain names
-(https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b)|gifts(\b)|me(\b)|new(\b))
+(https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b)|gifts(\b)|me(\b)|new(\b)|co(\b))
 (https?:\/\/)?(.+\.)?discordapp\.(?!com(\b)|net(\b))
 (https?:\/\/)?(.+\.)?discordstatus\.(?!com(\b))
 
