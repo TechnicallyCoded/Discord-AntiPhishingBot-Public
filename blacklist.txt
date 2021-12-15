@@ -8,7 +8,7 @@
 (https?:\/\/)?(.+\.)?steamcommunityx\.\w{2,15}
 
 # Invalid root level domains for valid (or safe 3rd party) discord domain names
-(https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b)|me(\b))
+(https?:\/\/)?(.+\.)?discord\.(?!com(\b)|gg(\b)|media(\b)|gift(\b)|gifts(\b)|me(\b)|new(\b))
 (https?:\/\/)?(.+\.)?discordapp\.(?!com(\b)|net(\b))
 (https?:\/\/)?(.+\.)?discordstatus\.(?!com(\b))
 
@@ -18,7 +18,7 @@
 
 # Invalid discord domains, no matter the root domain
 (https?:\/\/)?(.+\.)?d[^i].?(sc|cs|s|c)[o0]+r?(cl|[db])\.\w{2,15}
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+rd.{0,10}\.gift\w{1,15}
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+rd.{0,10}\.(gift[^s\W]\w{0,15}|gifts\w{1,15})
 (https?:\/\/)?(.+\.)?d[il17]+(cs|sc|s|c)[o0]+rdg[il1]ft[s5]?\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)c?[o0]+r(cl|[db])-\w{1,20}\.\w{2,15}
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)ro(cl|[db])app\.\w{2,15}
