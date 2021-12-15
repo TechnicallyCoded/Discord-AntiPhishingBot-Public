@@ -1,11 +1,21 @@
 # Official discord domains
 https://discord.com
+https://discord.co
 https://discord.gg
 https://discord.media
 https://discord.gift
+https://discord.new
 https://discordapp.com
 https://discordapp.net
 https://discordstatus.com
+
+# Double Redirect Domains eg: dis.gd > discordapp.com > discord.com
+https://dis.gd/
+https://discord.gifts
+# discord.gifts is caught by Ublock origin and other anti malware software despite being legit.
+
+# One of many inside jokes discord maintains via domains used as redirects.
+https://watchanimeattheoffice.com/
 
 # Third party websites known to be safe
 https://discordservers.com
