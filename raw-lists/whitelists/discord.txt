@@ -11,10 +11,10 @@ https://discordstatus.com
 
 # Double Redirect Domains eg: dis.gd > discordapp.com > discord.com
 https://dis.gd/
+# discord.gifts is caught by Ublock origin and other anti-malware software despite being legit.
 https://discord.gifts
-# discord.gifts is caught by Ublock origin and other anti malware software despite being legit.
 
-# One of many inside jokes discord maintains via domains used as redirects.
+# Inside jokes discord maintains via domains used as redirects.
 https://watchanimeattheoffice.com/
 
 # Third party websites known to be safe
