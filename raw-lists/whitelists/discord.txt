@@ -6,10 +6,8 @@ https://discord.media
 https://discord.gift
 https://discord.new
 https://discordapp.com
-https://discordstatus.com
-
-# As of Dec 15 2021 discordapp.net cannot be reached yet is assumed to be owned by discord inc still.
 https://discordapp.net
+https://discordstatus.com
 
 # Double Redirect Domains eg: dis.gd > discordapp.com > discord.com
 https://dis.gd/
