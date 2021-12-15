@@ -35,3 +35,4 @@
 
 # Individual banned domains yet to be regrouped under a more general regex expression
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db])[^s]\.\w{2,15}
+(https?:\/\/)?(.+\.)?g[il17]fts?-?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[db])\w+\.\w{2,15}
