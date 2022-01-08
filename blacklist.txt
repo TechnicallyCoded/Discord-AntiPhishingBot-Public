@@ -57,8 +57,10 @@
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db])[^s]\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-1-to-2-letters-with-first-letter-not-being-an-s>.*
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])[^s]\w?\.\w{2,15}(\.\w{2,15})?
-## (discord)<random-4-to-15-letters>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{4,15}\.\w{2,15}(\.\w{2,15})?
+## (discord)<random-4-to-5-letters>.*
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{4,5}\.\w{2,15}(\.\w{2,15})?
+## (discord)<random-8-to-15-letters>.*
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{8,15}\.\w{2,15}(\.\w{2,15})?
 ## (nitro)(app)(store).*
 (https?:\/\/)?(.+\.)?n[il17]t+r[o0]-?app-?[s5]t[o0]re\.\w{2,15}(\.\w{2,15})?
 ## (boost)(nitro).*
