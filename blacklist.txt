@@ -63,8 +63,8 @@
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{4,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-8-to-15-letters>.*
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{8,15}\.\w{2,15}(\.\w{2,15})?
-## (nitro)(app)(store).*
-(https?:\/\/)?(.+\.)?n[il17]t+r[o0]-?app-?[s5]t[o0]re\.\w{2,15}(\.\w{2,15})?
+## (nitro)*.*
+(https?:\/\/)?(.+\.)?n[il17]t+r[o0]\S{1,15}\.\w{2,15}(\.\w{2,15})?
 ## (boost)(nitro).*
 (https?:\/\/)?(.+\.)?b[o0]+st+-?n[il17]t+r[o0]\.\w{2,15}(\.\w{2,15})?
 
