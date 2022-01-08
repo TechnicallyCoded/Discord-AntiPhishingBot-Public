@@ -32,7 +32,7 @@
 ## (gift)(discord)*.*
 (https?:\/\/)?(.+\.)?g[il17]fts?-?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[db])\w{1,15}\.\w{2,15}(\.\w{2,15})?
 ## (discord)-*.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c|cc)r?[o0]+r?c?(cl|[dbt])\w{0,5}-\w{1,20}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)c?r?[o0]+r?c?(cl|[dbt])\w{0,5}-\w{1,20}\.\w{2,15}(\.\w{2,15})?
 ## (discord)app.*
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)ro(cl|[dbt])app\.\w{2,15}(\.\w{2,15})?
 ## (steam)(discord).*
@@ -53,10 +53,12 @@
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[^o]r?(cl|[dbt])\S{0,15}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-dot-in-the-middle>*.*
 (https?:\/\/)?(.+\.)?d[il17]+s\.c[o0]+r?(cl|[dbt])\S{0,15}\.\w{2,15}(\.\w{2,15})?
+## <discord-with-double-c-or-none>*.*
+(https?:\/\/)?(.+\.)?d[il17]+(scc|cs|s|cc)[o0]+r?(cl|[dbt])\S{0,15}\.\w{2,15}(\.\w{2,15})?
 ## (discord)<anthing-but-s>.*
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db])[^s]\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-1-to-2-letters-with-first-letter-not-being-an-s>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])[^s]\w?\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)r?[o0]+r?(cl|[dbt])[^s]\w?\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-4-to-5-letters>.*
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{4,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-8-to-15-letters>.*
