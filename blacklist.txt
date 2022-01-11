@@ -13,8 +13,8 @@
 (https?:\/\/)?(.+\.)?discordstatus\.(?!com(\b))
 
 # Valid discord domains with extra characters in the middle
-(https?:\/\/)?(.+\.)?d[il17](sc|cs|s|c)[0o]\w{1,3}r(cl|d)app\.com\b
-(https?:\/\/)?(.+\.)?d[il17](sc|cs|s|c)[0o]\w{1,3}r(cl|d)app\.net\b
+(https?:\/\/)?(.+\.)?d[il17f](sc|cs|s|c)[0o]\w{1,3}r(cl|d)app\.com\b
+(https?:\/\/)?(.+\.)?d[il17f](sc|cs|s|c)[0o]\w{1,3}r(cl|d)app\.net\b
 
 # ----
 # Invalid discord domains, no matter the root domain
@@ -26,47 +26,47 @@
 ## <Anything starting with discord but the second letter isn't an "i">*.*
 (https?:\/\/)?(.+\.)?d[^i].?(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord).(gift)
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r(cl|[dbt]).{0,10}\.(gift[^s\W]\w{0,15}|gifts\w{1,15})
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r(cl|[dbt]).{0,10}\.(gift[^s\W]\w{0,15}|gifts\w{1,15})
 ## (discord)(gift).*
-(https?:\/\/)?(.+\.)?d[il17]+(cs|sc|s|c|c)r?[o0]+r(cl|[dbt])\S{0,2}g[il1]ft[s5]?\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(cs|sc|s|c|c)r?[o0]+r(cl|[dbt])\S{0,2}g[il1]ft[s5]?\.\w{2,15}(\.\w{2,15})?
 ## (gift)(discord)*.*
-(https?:\/\/)?(.+\.)?g[il17]fts?-?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[db])\w{1,15}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?g[il17f]fts?-?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[db])\w{1,15}\.\w{2,15}(\.\w{2,15})?
 ## (discord)-*.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)(rc|cr|r|c)?[o0]+(rc|cr|r|c)?(cl|[dbt])\w{0,5}-\w{1,20}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)(rc|cr|r|c)?[o0]+(rc|cr|r|c)?(cl|[dbt])\w{0,5}-\w{1,20}\.\w{2,15}(\.\w{2,15})?
 ## (discord)app.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)ro(cl|[dbt])app\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)ro(cl|[dbt])app\.\w{2,15}(\.\w{2,15})?
 ## (steam)(discord).*
 (https?:\/\/)?(.+\.)?stea(m|n|nn).{0,4}d[il](sc|cs)[o0]r?(cl|[dbt])\.\w{2,15}(\.\w{2,15})?
 ## (discord)<anything-but-"app"-with-3-letters>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r(cl|[dbt])[^a][^p]{2}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r(cl|[dbt])[^a][^p]{2}\.\w{2,15}(\.\w{2,15})?
 ## (discord)(nitro).*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r(cl|[dbt])s?.{0,5}n[il17]{1,2}t+r[o0]s?\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r(cl|[dbt])s?.{0,5}n[il17]{1,2}t+r[o0]s?\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-extra-letter-after-r>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[0o]r\w(cl|[dbt])\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[0o]r\w(cl|[dbt])\.\w{2,15}(\.\w{2,15})?
 ## <discord-missing-the-d-at-the-end>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[0o]r(cl|[bt])\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[0o]r(cl|[bt])\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-extra-c-after-o>*.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+cr?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+cr?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-reversed-"sc">*.*
-(https?:\/\/)?(.+\.)?d[il17]+cs[o0]+r?(cl|[db])\S{0,15}\S{0,5}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+cs[o0]+r?(cl|[db])\S{0,15}\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-but-"o"-is-another-letter>*.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[^o]r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[^o]r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-dot-in-the-middle>*.*
-(https?:\/\/)?(.+\.)?d[il17]+s\.c[o0]+r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+s\.c[o0]+r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-double-c-or-none>*.*
-(https?:\/\/)?(.+\.)?d[il17]+(scc|cs|s|cc)[o0]+r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(scc|cs|s|cc)[o0]+r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord)<anthing-but-s>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db])[^s]\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs)[o0]+r?(cl|[db])[^s]\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-1-to-2-letters-with-first-letter-not-being-an-s>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)r?[o0]+r?(cl|[dbt])[^s]\w?\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)r?[o0]+r?(cl|[dbt])[^s]\w?\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-4-to-5-letters>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{4,5}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{4,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-8-to-15-letters>.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{8,15}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{8,15}\.\w{2,15}(\.\w{2,15})?
 ## (nitro)*.*
-(https?:\/\/)?(.+\.)?n[il17]t+r[o0]\S{1,15}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?n[il17f]t+r[o0]\S{1,15}\.\w{2,15}(\.\w{2,15})?
 ## (boost)(nitro).*
-(https?:\/\/)?(.+\.)?b[o0]+st+-?n[il17]t+r[o0]\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?b[o0]+st+-?n[il17f]t+r[o0]\.\w{2,15}(\.\w{2,15})?
 
 # Potentially malicious links unrelated to nitro/discord/steam scams
 (https?:\/\/)?(.+\.)?clck\.ru
