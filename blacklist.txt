@@ -32,7 +32,7 @@
 ## (gift)(discord)*.*
 (https?:\/\/)?(.+\.)?g[il17]fts?-?d[il17]+(sc|cs|s|c)[o0]+r?(cl|[db])\w{1,15}\.\w{2,15}(\.\w{2,15})?
 ## (discord)-*.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)c?r?[o0]+r?c?(cl|[dbt])\w{0,5}-\w{1,20}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)(rc|cr|r|c)?[o0]+(rc|cr|r|c)?(cl|[dbt])\w{0,5}-\w{1,20}\.\w{2,15}(\.\w{2,15})?
 ## (discord)app.*
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)ro(cl|[dbt])app\.\w{2,15}(\.\w{2,15})?
 ## (steam)(discord).*
