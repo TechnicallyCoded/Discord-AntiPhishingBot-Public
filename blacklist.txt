@@ -46,15 +46,15 @@
 ## <discord-missing-the-d-at-the-end>.*
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[0o]r(cl|[bt])\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-extra-c-after-o>*.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+cr?(cl|[dbt])\S{0,15}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[o0]+cr?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-reversed-"sc">*.*
-(https?:\/\/)?(.+\.)?d[il17]+cs[o0]+r?(cl|[db])\S{0,15}\S{0,15}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17]+cs[o0]+r?(cl|[db])\S{0,15}\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-but-"o"-is-another-letter>*.*
-(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[^o]r?(cl|[dbt])\S{0,15}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17]+(sc|cs|s|c)[^o]r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-dot-in-the-middle>*.*
-(https?:\/\/)?(.+\.)?d[il17]+s\.c[o0]+r?(cl|[dbt])\S{0,15}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17]+s\.c[o0]+r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-double-c-or-none>*.*
-(https?:\/\/)?(.+\.)?d[il17]+(scc|cs|s|cc)[o0]+r?(cl|[dbt])\S{0,15}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17]+(scc|cs|s|cc)[o0]+r?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord)<anthing-but-s>.*
 (https?:\/\/)?(.+\.)?d[il17]+(sc|cs)[o0]+r?(cl|[db])[^s]\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-1-to-2-letters-with-first-letter-not-being-an-s>.*
