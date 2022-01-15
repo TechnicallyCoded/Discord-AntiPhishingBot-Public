@@ -25,6 +25,8 @@
 # ----
 ## <Anything starting with discord but the second letter isn't an "i">*.*
 (https?:\/\/)?(.+\.)?d[^i].?(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
+## <Anything starting with discord but the second to last letter isn't an "r">*.*
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+[^r](cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord).(gift)
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r(cl|[dbt]).{0,10}\.(gift[^s\W]\w{0,15}|gifts\w{1,15})
 ## (discord)(gift).*
