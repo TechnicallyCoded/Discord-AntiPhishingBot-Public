@@ -43,6 +43,8 @@
 (https?:\/\/)?(.+\.)?n[il17f]t+r[o0]\S{1,15}\.\w{2,15}(\.\w{2,15})?
 ## (boost)(nitro).*
 (https?:\/\/)?(.+\.)?b[o0]+st+-?n[il17f]t+r[o0]\.\w{2,15}(\.\w{2,15})?
+## (stellseriesnitro).*
+(https?:\/\/)?(.+\.)?stellseriesnitro\.\w{2,15}(\.\w{2,15})?
 ## <discord-where-second-letter-isn't-i>*.*
 (https?:\/\/)?(.+\.)?d[^i].?(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-location-of-r-manipulation>*.*
