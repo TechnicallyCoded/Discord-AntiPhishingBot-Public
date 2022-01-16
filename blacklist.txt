@@ -23,10 +23,6 @@
 # Anything in <...> has an explanation of what should be matched
 # A "*" means match anything
 # ----
-## <Anything starting with discord but the second letter isn't an "i">*.*
-(https?:\/\/)?(.+\.)?d[^i].?(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
-## <Anything starting with discord but the second to last letter isn't an "r">*.*
-(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+[^r](cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord).(gift)
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r(cl|[dbt]).{0,10}\.(gift[^s\W]\w{0,15}|gifts\w{1,15})
 ## (discord)(gift).*
@@ -43,6 +39,14 @@
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r(cl|[dbt])[^a][^p]{2}\.\w{2,15}(\.\w{2,15})?
 ## (discord)(nitro).*
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r(cl|[dbt])s?.{0,5}n[il17]{1,2}t+r[o0]s?\.\w{2,15}(\.\w{2,15})?
+## (nitro)*.*
+(https?:\/\/)?(.+\.)?n[il17f]t+r[o0]\S{1,15}\.\w{2,15}(\.\w{2,15})?
+## (boost)(nitro).*
+(https?:\/\/)?(.+\.)?b[o0]+st+-?n[il17f]t+r[o0]\.\w{2,15}(\.\w{2,15})?
+## <discord-but-the-second-letter-isn't-i>*.*
+(https?:\/\/)?(.+\.)?d[^i].?(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
+## <discord-but-the-second-to-last-letter-isn't-r>*.*
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)r?[o0]+[^r](cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-extra-letter-after-r>.*
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[0o]r\w(cl|[dbt])\.\w{2,15}(\.\w{2,15})?
 ## <discord-missing-the-d-at-the-end>.*
@@ -65,10 +69,6 @@
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{4,5}\.\w{2,15}(\.\w{2,15})?
 ## (discord)<random-8-to-15-letters>.*
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{8,15}\.\w{2,15}(\.\w{2,15})?
-## (nitro)*.*
-(https?:\/\/)?(.+\.)?n[il17f]t+r[o0]\S{1,15}\.\w{2,15}(\.\w{2,15})?
-## (boost)(nitro).*
-(https?:\/\/)?(.+\.)?b[o0]+st+-?n[il17f]t+r[o0]\.\w{2,15}(\.\w{2,15})?
 
 # Potentially malicious links unrelated to nitro/discord/steam scams
 (https?:\/\/)?(.+\.)?clck\.ru
