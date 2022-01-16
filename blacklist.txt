@@ -46,7 +46,7 @@
 ## <discord-where-second-letter-isn't-i>*.*
 (https?:\/\/)?(.+\.)?d[^i].?(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-location-of-r-manipulation>*.*
-(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)(r[o0]+|[o0]+r)(cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)r?[o0]+(cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-where-second-to-last-letter-isn't-r>*.*
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+[^r](cl|[dbt])\w{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-extra-letter-after-r>.*
