@@ -1,8 +1,5 @@
-# Joke site for redirecting to Rick Roll video, best to block even if safe.
-https://discordgift.site/
-https://dis.cord.gifts/
-
-# Domains with multiple variations known
+# Malicious discord domains (phishing, ip grabber, or other similar ones)
+https://boostnltro.com
 https://dfscord-app.club
 https://discjrd.com
 https://dicordglfts.ga
@@ -89,11 +86,5 @@ https://dlscorld.gift
 https://dlscorld.gifts
 https://dlscrod-app.xyz
 https://dlsocrd.online
-
-# Single Instances
-https://boostnltro.com
 https://gift-discords.com
 https://nitro-gg.ru
-
-# URL Shorteners
-https://clck.ru
