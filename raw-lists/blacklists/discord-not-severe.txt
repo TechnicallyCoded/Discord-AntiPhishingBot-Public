@@ -1,0 +1,4 @@
+# Discord-like domains that could be used for phishing but that 
+# are not actively used as so at the time of writing
+https://discordgift.site/
+https://dis.cord.gifts/
