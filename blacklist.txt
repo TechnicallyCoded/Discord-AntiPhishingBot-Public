@@ -54,7 +54,7 @@
 ## <discord-with-extra-letter-after-r>.*
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[0o]r\w(cl|[dbt])\.\w{2,15}(\.\w{2,15})?
 ## <discord-missing-the-d-at-the-end>.*
-(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[0o]r(cl|[bt])\.\w{2,15}(\.\w{2,15})?
+(https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[0o]r(cl|[btl])\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-extra-c-after-o>*.*
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+cr?(cl|[dbt])\S{0,5}\.\w{2,15}(\.\w{2,15})?
 ## <discord-with-reversed-"sc">*.*
