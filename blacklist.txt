@@ -75,7 +75,7 @@
 (https?:\/\/)?(.+\.)?d[il17f]+(sc|cs|s|c)[o0]+r?(cl|[dbt])\w{8,15}\.\w{2,15}(\.\w{2,15})?
 
 # Other links used in discord scams but that do not resemble the discord domain
-(https?:\/\/)?(.+\.)?e-giftpremium.com
+(https?:\/\/)?(.+\.)?e-giftpremium\.com
 
 # Potentially malicious links unrelated to nitro/discord/steam scams
 (https?:\/\/)?(.+\.)?clck\.ru
