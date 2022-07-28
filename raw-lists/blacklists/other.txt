@@ -1,2 +1,3 @@
 # URL Shorteners
 https://clck.ru
+https://rust-roullete.com
